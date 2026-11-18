@@ -1,4 +1,4 @@
-<a1>História do Jogo</a1>
+## História do Jogo
 
 O corpo está sob ataque. Um vírus se espalhou pelas veias e transformou o que era uma rota tranquila em território inimigo. As células que trabalhavam ali agora fogem, se escondem, ou simplesmente já não respondem mais.
 
@@ -10,13 +10,13 @@ Seu coração é sua vida: cada golpe sofrido é uma batida a menos, e quando el
 
 A travessia termina no fim da veia. Mas só se ela chegar viva.
 
-Como jogar
+## Como jogar
 
-Você: glóbulo branco — ataque e atire nos vírus.
+- [[Você]]: glóbulo branco — ataque e atire nos vírus.
 
-Objetivo: atravessar as 4 telas da veia e garantir que o oxigênio chegue ao destino.
+- [[Objetivo]]: atravessar as 4 telas da veia e garantir que o oxigênio chegue ao destino.
 
-Game over: se o coração (sua vida) zerar ou se qualquer vírus alcançar a glóbulo vermelho.
+- [[Game over]]: se o coração (sua vida) zerar ou se qualquer vírus alcançar a glóbulo vermelho.
 
 <i>Inspirado no anime Cells at Work! (Hataraku Saibou).</i>
 
