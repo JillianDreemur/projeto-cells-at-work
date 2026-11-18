@@ -1,4 +1,4 @@
-#História do Jogo
+História do Jogo
 
 O corpo está sob ataque. Um vírus se espalhou pelas veias e transformou o que era uma rota tranquila em território inimigo. As células que trabalhavam ali agora fogem, se escondem, ou simplesmente já não respondem mais.
 
