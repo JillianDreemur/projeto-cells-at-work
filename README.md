@@ -11,7 +11,11 @@ Seu coração é sua vida: cada golpe sofrido é uma batida a menos, e quando el
 A travessia termina no fim da veia. Mas só se ela chegar viva.
 
 Como jogar
+
 Você: glóbulo branco — ataque e atire nos vírus.
+
 Objetivo: atravessar as 4 telas da veia e garantir que o oxigênio chegue ao destino.
+
 Game over: se o coração (sua vida) zerar ou se qualquer vírus alcançar a glóbulo vermelho.
-Inspirado no anime Cells at Work! (Hataraku Saibou).
+
+<i>Inspirado no anime Cells at Work! (Hataraku Saibou).</i>
