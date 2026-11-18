@@ -25,8 +25,6 @@ tags: [cells-at-work, inicio]
 ---
 # Cells at Work!
 
-![[tela_inicial.png|320]]
-
 > Um jogo de ação em pixel art que se passa dentro do corpo humano. Você é um glóbulo branco escoltando uma glóbulo vermelho por uma veia infestada de vírus.
 
 ## O jogo
@@ -45,4 +43,3 @@ tags: [cells-at-work, inicio]
 - [[Cenários]]: as 4 telas da veia
 - [[Interface]]: telas, menus, diálogos e HUD
 - [[Sons]]: músicas, jingles e efeitos
-
